@@ -155,7 +155,8 @@ small a {
 	text-decoration: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px){
+	body { background-image: url ("./Images/bg-intro-desktop.png")
 	h1 {
 		text-align: center;
 	}
